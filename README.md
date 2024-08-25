@@ -27,3 +27,17 @@ If you have any questions or feedback about the game, feel free to contact the p
 Have fun playing and learning!
 
 ## Screenshots
+
+<img src="Chemical-Equations-Game-Menu.jpg" alt="Game menu">
+
+<img src="Chemical-Equations-Game.jpg" alt="Game view">
+
+<img src="Chemical-Equations-Game-2.jpg" alt="Game view">
+
+<img src="Chemical-Equations-Game-3.jpg" alt="Game view">
+
+<img src="Chemical-Equations-Game-4.jpg" alt="Game view">
+
+<img src="Chemical-Equations-Game-5.jpg" alt="Game view">
+
+<img src="Chemical-Equations-Game-6.jpg" alt="Game view">
