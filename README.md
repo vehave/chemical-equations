@@ -41,3 +41,7 @@ Have fun playing and learning!
 <img src="Chemical-Equations-Game-5.jpg" alt="Game view">
 
 <img src="Chemical-Equations-Game-6.jpg" alt="Game view">
+
+## Also available for Android devices
+
+<a href="https://play.google.com/store/apps/details?id=com.ChemicalEquationsGame.com.unity.template.mobile2D" target="_blank"><img src="PlayStore.jpg" alt="Get it on Google Play"></a>
